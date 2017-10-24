@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EVMA_Client</string>
+    <string name="title_activity_client__maps">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
