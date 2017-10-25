@@ -1,4 +1,4 @@
-# Emergency Vehicle Movement Antecipation (EVMA)
+# Emergency Vehicle Movement Anticipation (EVMA)
 
 EVMA is a detection system of emergency vehicles in real time without the need to use luminous/sound signals. This system was developed only in the ambulances context but it can be adapted to others (e.g. police vehicles).
 
